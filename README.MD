@@ -1,0 +1,1 @@
+Antigo plugin shadowbox desenvolvido por mim em tempos remotos, originalmente escrito com JQuery 1.x, recentemente precisei desarquivá-lo para dar manutenção num sistema legado. Aproveitei para compatibiliza-lo com o novo JQuery e colocá-lo no GitHub =)
